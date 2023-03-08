@@ -10,6 +10,6 @@
 
 ### Process and advice
 
-- [A Jane Street Software Engineering Mock Interview (Video)](https://www.youtube.com/watch?v=VfbFJISCP3g)
+- [A Jane Street Software Engineering Mock Interview (Video)](https://www.youtube.com/watch?v=V8DGdPkBBxg)
 - [What a Jane Street software engineering interview is like (Text)](https://blog.janestreet.com/what-a-jane-street-dev-interview-is-like/)
 - [Interviewing At Jane Street (Text)](https://blog.janestreet.com/interviewing-at-jane-street/)
